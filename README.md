@@ -3,7 +3,7 @@
 I built this Power BI dashboard to explore Netflix’s catalog. It shows how movies and TV shows are distributed by type, release year, rating, country, and genre.
 
 ## Dashboard Preview
-![Netflix Dashboard](screenshots/Netflix_project_SS.png)
+![Netflix Dashboard](screenshots/Netflix project SS.png)
 
 ## Demo Video
 Here’s a short walkthrough I posted on LinkedIn: [Watch here](https://lnkd.in/p/dFy4BNSX)
